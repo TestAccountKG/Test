@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
         print(10)
         print(11)
+        print(12)
     }
 
     private companion object {
