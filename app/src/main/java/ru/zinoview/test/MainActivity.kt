@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         if(savedInstanceState == null) {
             a = 5
         }
+        print(1)
 
 
     }
