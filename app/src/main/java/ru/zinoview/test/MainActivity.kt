@@ -33,8 +33,6 @@ class MainActivity : AppCompatActivity() {
         print(12)
 
         print(13)
-
-        print("One commit")
     }
 
     private companion object {
